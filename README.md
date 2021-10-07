@@ -1,3 +1,5 @@
+Feel free to PM me on discord with suggestions at GeoKureli#0304. You can also create an issue or make a patch.
+
 # Games
 - Space Invaders
 - Tetris
