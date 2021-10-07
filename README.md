@@ -10,9 +10,11 @@
 - Minesweeper
 - Flappy Bird
 - Platformer
+- top-down adventure
 - checkers
 - tic tac toe
 - connect four
+- shoot'em up
 
 # Todo
 - Add links to playable examples
