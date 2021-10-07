@@ -3,6 +3,9 @@
 - Tetris
 - Pong
 - Breakout
+- snake
+- bomberman
+- pacman
 - Asteroids
 - Minesweeper
 - Flappy Bird
