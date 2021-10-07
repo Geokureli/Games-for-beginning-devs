@@ -17,5 +17,5 @@
 - shoot'em up
 
 # Todo
-- Add links to playable examples
+- Add links to playable examples and tutorials
 - Sort list by difficulty. Maybe break down games into their functional components?
