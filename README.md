@@ -1,4 +1,6 @@
-It's hard to know where to start with game dev, or a new engine. It's important to familiaraize yourself with new tools, and creating short simple tasks can help, so here's a list of games you can try to make to develop your skills. you don't need to make the whole game, just the foundational mechanics. Feel free to add your own twists, too! Flex your design muscle when you feel you've got a good handle on the tech side of things.
+It's hard to know where to start with game dev, or a new engine. It's important to familiaraize yourself with new tools, and creating short simple tasks can help, so here's a list of games you can try to make to develop your skills.
+
+You don't need to make the whole game, just the foundational mechanics. Feel free to add your own twists, too! Flex your design muscle when you feel you've got a good handle on the tech side of things.
 
 Feel free to PM me on discord with suggestions at GeoKureli#0304. You can also create an issue or make a patch.
 
