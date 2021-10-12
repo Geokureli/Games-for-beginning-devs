@@ -30,3 +30,4 @@ Feel free to PM me on discord with suggestions at GeoKureli#0304. You can also c
 # Todo
 - Add links to playable examples and tutorials
 - Sort list by difficulty. Maybe break down games into their functional components?
+- generate a website from the data
